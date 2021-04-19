@@ -580,8 +580,9 @@ body {
   display: inline;
 }
 #ready img {
-  display: inline;
-  width: 100%;
+  display: block;
+  width: 87%;
+  margin: auto;
   height: 93vh;
   /* z-index: -3; */
   box-shadow: 2px 12px 34px 5px grey;
